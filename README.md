@@ -79,3 +79,25 @@ flutter pub get
 ```bash
 flutter run
 ```
+## Screens
+Here are the app's screenshots showcasing various screens:
+
+![Register Screen]()
+![Login Screen]()
+![Home Screen]()
+![Entry Screen]()
+![Entry List Screen]()
+![Logout Screen]()
+
+
+## Future Enhancements
+- Image's text translation
+- PDF or DOC file translation
+
+## Contributors
+- [RutujNanavati22it080](https://github.com/RutujNanavati22it080)
+
+## Acknowledgments
+- Flutter team for the amazing framework
+- Firebase for backend services
+- Open-source packages used in this project
