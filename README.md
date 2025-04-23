@@ -82,7 +82,7 @@ flutter run
 ## Screens
 Here are the app's screenshots showcasing various screens:
 
-![Register Screen]()
+![Register Screen](assets/images/First loading screen.jpg)
 ![Login Screen]()
 ![Home Screen]()
 ![Entry Screen]()
