@@ -83,15 +83,14 @@ flutter run
 Here are the app's screenshots showcasing various screens:
 
 ![App Loading Screen](assets/images/First_loading_screen.jpg)
-![main screen]()
-![Home Screen]()
-![selecting language Screen]()
-![translation by text screen]()
-![translation by voice screen]()
-![history option Screen]()
-![dark theme screen]()
-![translation in darkmode Screen]()
-
+![main screen](assets/images/home_screen.jpg)
+![Home Screen](assets/images/main_home_screen.jpg)
+![selecting language Screen](assets/images/selecting_language.jpg)
+![translation by text screen](assets/images/by_text.jpg)
+![translation by voice screen](assets/images/by_voice.jpg)
+![history option Screen](assets/images/history_options.jpg)
+![dark theme screen](assets/images/dark_theme.jpg)
+![translation in darkmode Screen](assets/images/translation_in_darkmode.jpg)
 
 ## Future Enhancements
 - Image's text translation
