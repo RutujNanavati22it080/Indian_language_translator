@@ -82,12 +82,15 @@ flutter run
 ## Screens
 Here are the app's screenshots showcasing various screens:
 
-![Register Screen](assets/images/First loading screen.jpg)
-![Login Screen]()
+![App Loading Screen](assets/images/First_loading_screen.jpg)
+![main screen]()
 ![Home Screen]()
-![Entry Screen]()
-![Entry List Screen]()
-![Logout Screen]()
+![selecting language Screen]()
+![translation by text screen]()
+![translation by voice screen]()
+![history option Screen]()
+![dark theme screen]()
+![translation in darkmode Screen]()
 
 
 ## Future Enhancements
